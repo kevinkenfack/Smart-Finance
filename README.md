@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/dGHFV_RMGag" target="_blank">
+    <a href="#" target="_parent">
       <img src="https://i.postimg.cc/tJsYLQcP/test1.jpg" alt="Project Banner">
     </a>
   
@@ -15,7 +15,7 @@
   <h3 align="center">Finan Smart</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@albertmends" target="_blank"><b>Your YouTube Channel</b></a>. Join the community!
+     Build this project step by step with our detailed tutorial on <a href="https://smart-finance-tau.vercel.app/" target="_blank"><b>View on live</b></a>. Join the community!
     </div>
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@albertmends/videos" target="_blank"><b>Code with Albert</b></a>.
+This repository contains the code for this project
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
@@ -74,7 +74,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/mendsalbert/ai-finance-trackingt.git
+git clone https://github.com/kevinkenfack/Smart-Finance
 cd ai-finance-tracking
 ```
 
